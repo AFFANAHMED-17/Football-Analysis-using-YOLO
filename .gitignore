@@ -6,7 +6,6 @@ venv/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-test-video.mp4
-output-video.mp4
+
 runs/
 "@ | Set-Content .gitignore
